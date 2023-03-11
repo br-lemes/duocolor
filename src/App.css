@@ -1,0 +1,24 @@
+.duocolor-darkcyan [opacity="0.2"] {
+  opacity: 1;
+  fill: darkcyan;
+}
+
+.duocolor-yellow [opacity="0.2"] {
+  opacity: 1;
+  fill: yellow;
+}
+
+.duocolor-tomato [opacity="0.2"] {
+  opacity: 1;
+  fill: tomato;
+}
+
+.duocolor-fuchsia [opacity="0.2"] {
+  opacity: 1;
+  fill: fuchsia;
+}
+
+.duocolor-sunset [opacity="0.2"] {
+  opacity: 1;
+  fill: url(#sunset);
+}
